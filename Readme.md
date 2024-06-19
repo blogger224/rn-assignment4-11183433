@@ -119,13 +119,12 @@ npm start
 
 yarn start
 
-```
 ### Screenshots
+
 ### Login Screen
 
-![Screenshot2](/assets/blogger.png)
+![Screenshot1](/assets/blogger2.png)
+
 ### Home Screen
-![Screenshot2](/assets/Eben.jpg)
-### Home Screen
-![Screenshot2](/assets/blogger2.png)
-```
+
+![Screenshot1](/assets/Eben.jpg)
