@@ -122,7 +122,10 @@ yarn start
 ```
 ### Screenshots
 ### Login Screen
-![Screenshot1](/assets/blogger.png)
+
+![Screenshot2](/assets/blogger.png)
 ### Home Screen
-![Screenshot1](/assets/blogger2.png)
+![Screenshot2](/assets/Eben.jpg)
+### Home Screen
+![Screenshot2](/assets/blogger2.png)
 ```
